@@ -1,0 +1,89 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.wrapper{
+  margin: 0;
+  background-color: #fff;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.section{
+  width: 640px;
+  border-right: 1px solid #bbb;
+  border-left: 1px solid #bbb;
+  border-bottom: 1px solid #bbb;
+  padding: 15px 0;
+}
+.avatar{
+  cursor: pointer;
+  margin-left: 15px;
+  margin-right: 5px;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  float: left;
+}
+.post-title{
+  display: flex;
+}
+.author-name{
+  cursor: pointer;
+  font-size: 15px;
+  font-weight: bold;
+}
+.verified{
+  padding: 0 4px;
+}
+.post-data{
+  color: rgba(36, 36, 34, 0.788);
+}
+.content{
+  margin-left: 70px;
+  margin-right: 10px;
+  font-size: 20px;
+}
+.content-text{
+  padding-bottom: 0;
+}
+.content-image{
+  cursor: pointer;
+  /* padding-top: 5px; */
+  margin-bottom: 10px;
+  width: 560px;
+  max-width: 100%;
+  border-radius: 15px;
+}
+
+.footer{
+  display: flex;
+}
+button{
+  margin-left: 90px;
+  border:none;
+  background-color: #ffffff;
+  cursor: pointer;
+  outline: none;
+}
+.comment-container,
+.like-container,
+.retweet-container,
+.download-container{
+  color: rgba(36, 36, 34, 0.788);
+  cursor: pointer;
+}
+
+.retweet-container{}
+.like-container{}
+.download-container{}
