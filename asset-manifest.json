@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-lesson/static/css/main.63760881.chunk.css",
+    "main.js": "/react-lesson/static/js/main.62f2bbe8.chunk.js",
+    "main.js.map": "/react-lesson/static/js/main.62f2bbe8.chunk.js.map",
+    "runtime-main.js": "/react-lesson/static/js/runtime-main.2b4f04aa.js",
+    "runtime-main.js.map": "/react-lesson/static/js/runtime-main.2b4f04aa.js.map",
+    "static/js/2.97ddbbdf.chunk.js": "/react-lesson/static/js/2.97ddbbdf.chunk.js",
+    "static/js/2.97ddbbdf.chunk.js.map": "/react-lesson/static/js/2.97ddbbdf.chunk.js.map",
+    "index.html": "/react-lesson/index.html",
+    "precache-manifest.56e766da4518748ae4fd8c38cbc429e4.js": "/react-lesson/precache-manifest.56e766da4518748ae4fd8c38cbc429e4.js",
+    "service-worker.js": "/react-lesson/service-worker.js",
+    "static/css/main.63760881.chunk.css.map": "/react-lesson/static/css/main.63760881.chunk.css.map",
+    "static/js/2.97ddbbdf.chunk.js.LICENSE.txt": "/react-lesson/static/js/2.97ddbbdf.chunk.js.LICENSE.txt",
+    "static/media/comment.svg": "/react-lesson/static/media/comment.ab5dbefc.svg",
+    "static/media/download.svg": "/react-lesson/static/media/download.918b128f.svg",
+    "static/media/like.svg": "/react-lesson/static/media/like.4a8048e5.svg",
+    "static/media/retweet.svg": "/react-lesson/static/media/retweet.3facbb8d.svg",
+    "static/media/verified.svg": "/react-lesson/static/media/verified.8973fefb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b4f04aa.js",
+    "static/js/2.97ddbbdf.chunk.js",
+    "static/css/main.63760881.chunk.css",
+    "static/js/main.62f2bbe8.chunk.js"
+  ]
+}
